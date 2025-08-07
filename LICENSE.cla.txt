@@ -1,0 +1,51 @@
+Commercial License Agreement (CLA)
+RetryIX AGI Inc. – Semantic Memory Engine / Memory RAID Engine
+
+1. Purpose
+This Commercial License Agreement (CLA) defines the terms under which RetryIX AGI Inc. grants commercial rights to use the software products including but not limited to:
+- Memory RAID Virtualized Array Memory Engine
+- Zero-Copy Semantic Memory Engine
+- All associated modules, kernel implementations, configuration files, and performance frameworks
+
+2. Applicability
+This CLA applies only if you meet any of the following conditions:
+- You use this software in a commercial product, cloud service, or client-facing application.
+- You integrate this software into a paid AI system, inference pipeline, or model hosting service.
+- You deploy this software within enterprise infrastructure or internal tools that support revenue generation.
+- You include this software in any proprietary bundle, SDK, framework, or toolkit delivered to third parties.
+
+3. License Requirements
+If any of the above conditions apply, you are required to:
+- Obtain a valid commercial license from RetryIX AGI Inc.
+- Acknowledge RetryIX AGI Inc. as the original author and provider of the technology.
+- Not remove or alter license metadata embedded in the source code or documentation.
+
+4. Restrictions
+Without a commercial license:
+- Commercial deployment, resale, sublicensing, cloud API wrapping, or model distillation service integration is strictly prohibited.
+- You may not use the software or its components to train commercial AI agents or offer zero-copy infrastructure as a service.
+- You are not permitted to wrap or embed this engine into LLM fine-tuning solutions offered to clients.
+
+5. No Transfer of Rights
+- Commercial licensees may not sublicense, resell, or transfer this software to third parties.
+- The granted license is non-transferable, non-exclusive, and revocable if terms are violated.
+
+6. Legal Action
+Unauthorized commercial use, distribution, or integration constitutes a breach of this agreement and may lead to:
+- Immediate revocation of access
+- Cease-and-desist notifications
+- Legal action and damage recovery claims under applicable intellectual property laws
+
+7. Academic and Research Use
+Use for non-commercial, academic, or personal research purposes is permitted under the Open Semantic License (OSL) v1.0, and does not require a commercial license.
+
+8. Contact for Licensing
+To initiate a commercial license agreement or for clarification, please contact:
+ice.xu@retryixagi.com
+ice____@msn.com
+
+RetryIX AGI Inc.
+Taiwan / Global Operations
+
+9. Acknowledgment
+By using this software, you acknowledge and agree to be bound by the terms of this CLA.
