@@ -263,4 +263,4 @@ By replacing the low-level API calls, the same framework can be applied to NVIDI
 
 **© 2025 RetryIX AGI, Inc. All rights reserved.**
 
-**Contact**: info@retryix.com | **License**: Limited Open Source | **Version**: 1.0.0
+**Contact**: ixu@retryix.com ice____@msn.com | **License**: Limited Open Source | **Version**: 1.0.0
