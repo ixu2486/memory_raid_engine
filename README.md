@@ -239,6 +239,22 @@ Comprehensive technical documentation, performance analysis, and implementation 
 ### 技術文檔
 
 詳細的技術文檔、性能分析和實現細節在隨附的技術資源中提供。
+---
+
+## 📢 Update (2025-08-08)
+
+**Cross-Platform Support Note**
+
+Although the current implementation targets **AMD Fine-Grain SVM**, the zero-copy virtual memory array concept can also be adapted to other hardware:
+
+- **NVIDIA GPUs**:
+  - Use `cudaHostAlloc(cudaHostAllocMapped)` and `cudaHostGetDevicePointer`.
+  - For OpenCL, use `clCreateBuffer(CL_MEM_ALLOC_HOST_PTR)` + `clEnqueueMapBuffer`.
+- **Intel CPUs**:
+  - Leverage high-speed DDR4/DDR5 and Direct I/O mapping for low-latency access.
+  - Ideal for large out-of-core model workloads.
+
+📌 This expands potential use to **NVIDIA + Intel** hardware in addition to AMD.
 
 ---
 
