@@ -261,6 +261,17 @@ By replacing the low-level API calls, the same framework can be applied to NVIDI
 
 ---
 
-**© 2025 RetryIX AGI, Inc. All rights reserved.**
+## License & Commercial Use
 
-**Contact**: ixu@retryix.com ice____@msn.com | **License**: Limited Open Source | **Version**: 1.0.0
+This repository is released under a **Limited Open Source License**:
+
+- ✅ **Free for non-commercial and academic use**
+- ✅ Research, educational, and personal testing are fully allowed
+- ❌ **Commercial use, redistribution, or integration into proprietary products requires a separate license**
+
+All advanced features (e.g., enterprise-grade optimization suites, distributed multi-GPU support, and custom zero-copy pipelines) are part of a commercial extension package.
+
+📧 For licensing inquiries or partnership opportunities, please contact:
+
+**Email**: ixu@retryix.com | ice____@msn.com  
+**Copyright** © 2025 RetryIX AGI, Inc. All rights reserved.
