@@ -256,6 +256,9 @@ Although the current implementation targets **AMD Fine-Grain SVM**, the zero-cop
 
 📌 This expands potential use to **NVIDIA + Intel** hardware in addition to AMD.
 
+💡 Note: The `svm_core` module encapsulates the memory orchestration logic.
+By replacing the low-level API calls, the same framework can be applied to NVIDIA or Intel platforms.
+
 ---
 
 **© 2025 RetryIX AGI, Inc. All rights reserved.**
